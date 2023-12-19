@@ -11,19 +11,19 @@ or a CLI
 Manage Dependencies with `idm` (ionic dependency manager)
 ## Syntax
 
-### in (package manager)
+### inp (package manager)
 So to install:
 ```bash
-in install [options] <package>
+inp install [options] <package>
 ```
 and to upgrade/update
 ```bash
-in update
-in upgrade
+inp update
+inp upgrade
 ```
 also see:
 ```bash
-in --upload
+inp --upload
 ```
 to upload a custom package of your `own`
 ### idm (dependency manager)
